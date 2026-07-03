@@ -56,7 +56,7 @@ export default function WealthManagementPlatform() {
               <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-teal-600 rounded-lg flex items-center justify-center">
                 <TrendingUp className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">Right Horizons</span>
+              <span className="text-xl font-bold text-gray-900">Auspicious Capital</span>
             </div>
             <div className="flex items-center gap-8">
               <button onClick={() => setCurrentPage('home')} className={`text-sm font-medium transition ${currentPage === 'home' ? 'text-blue-600' : 'text-gray-600 hover:text-gray-900'}`}>
@@ -136,7 +136,7 @@ export default function WealthManagementPlatform() {
 
             {/* Why Choose Us */}
             <section className="max-w-7xl mx-auto px-6 py-20">
-              <h2 className="text-4xl font-bold text-gray-900 mb-16">Why choose Right Horizons?</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-16">Why choose Auspicious Capital?</h2>
               <div className="grid grid-cols-3 gap-8">
                 <div className="p-8 border border-gray-200 rounded-xl hover:shadow-lg transition">
                   <Shield className="w-10 h-10 text-blue-600 mb-4" />
@@ -334,7 +334,7 @@ export default function WealthManagementPlatform() {
               <div>
                 <div className="flex items-center gap-3 mb-4">
                   <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-teal-600 rounded-lg"></div>
-                  <span className="text-white font-bold">Right Horizons</span>
+                  <span className="text-white font-bold">Auspicious Capital</span>
                 </div>
                 <p className="text-sm">Professional wealth management for India's high-net-worth individuals.</p>
               </div>
@@ -374,7 +374,7 @@ export default function WealthManagementPlatform() {
             </div>
             <div className="border-t border-gray-800 pt-8">
               <p className="text-center text-sm">
-                Right Horizons Financial Services | SEBI Registered | CIF: IN-PMS-700 | © 2026 All rights reserved
+                Auspicious Capital Financial Services | SEBI Registered | CIF: IN-PMS-700 | © 2026 All rights reserved
               </p>
             </div>
           </div>
@@ -393,7 +393,7 @@ export default function WealthManagementPlatform() {
             <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-teal-600 rounded-lg flex items-center justify-center">
               <TrendingUp className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900">Right Horizons</span>
+            <span className="text-xl font-bold text-gray-900">Auspicious Capital</span>
             <span className="text-gray-400">/ Client Portal</span>
           </div>
           <div className="flex items-center gap-4">
